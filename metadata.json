@@ -1,0 +1,5 @@
+{
+  "name": "PlantCare AI",
+  "description": "Application intelligente pour l'identification des plantes, le diagnostic des maladies et les conseils de culture personnalisés.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
